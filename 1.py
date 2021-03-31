@@ -31,6 +31,6 @@ for i in range(num_len):
 
 new_lst = list(map(lambda x: x ** 2, lst))
 
-if __name__ == '__main'__:
+if __name__ == '__main__':
     print(lst)
     print(new_lst)
